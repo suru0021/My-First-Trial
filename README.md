@@ -1,3 +1,3 @@
 # My-First-Trial
 This is my trial git repository
-<\n> Author - Suraj Nardekar
+<\br> Author - Suraj Nardekar
