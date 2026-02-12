@@ -1,4 +1,4 @@
 # My-First-Trial
 This is my trial git repository
 <br>
-Author - Suraj Nardekar
+Author - Suraj (IT HubTech)
